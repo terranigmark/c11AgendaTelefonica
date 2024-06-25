@@ -12,6 +12,12 @@ def mostrar_menu():
     return opcion
 
 
+def agregar_contacto(agenda, nombre, telefono):
+    # Diccionario
+    agenda[nombre] = telefono
+    return f"\nContacto agregado exitosamente"
+
+
 # Aqui va la logica del programa
 # Se deben integrar todas las funciones que haya
 def main():
