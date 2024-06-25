@@ -12,6 +12,8 @@ def mostrar_menu():
     return opcion
 
 
+# Aqui va la logica del programa
+# Se deben integrar todas las funciones que haya
 def main():
     pass
 
