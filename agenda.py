@@ -1,5 +1,7 @@
 
 
+# Menu de opciones para la aplicacion
+## El usuario debe ingresar un numero de las opciones valida
 def mostrar_menu():
     print("\n===Agenda Telefónica===")
     print("1. Añadir contacto")
